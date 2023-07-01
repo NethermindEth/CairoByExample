@@ -14,6 +14,7 @@ Summary
   - [If statements](./ch00-09-if_statements.md)
   - [Events](./ch00-10-events.md)
   - [Counter](./ch00-11-counter.md)
+  - [Struct as mapping key](./ch00-12-struct_mapping.md)
 
 - [Applications](./ch01-00-applications.md)
   - [Upgradeable Contract](./ch01-01-upgradeable_contract.md)
